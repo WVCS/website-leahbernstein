@@ -1,5 +1,5 @@
 body{
-  background-color:#E0AFA0;
+  background-color:#cae9ff;
 }
 h2{
   color:#463F3A;
@@ -16,10 +16,10 @@ p{
   
 }
 img{
-  border: double #463F3A 10px
+  border: double #ffffff 10px
 }
 iframe{
-  border: dashed #cb997e 10px
+  border: dashed #ffffff 10px
 }
 ul{
   list-style-type: none;
@@ -38,5 +38,5 @@ li a{
   text-decoration-line: none;
 }
 li a:hover{
-  background-color: #BCB8B1;
+  background-color: #DBEFFF;
 }
