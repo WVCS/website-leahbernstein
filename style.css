@@ -1,1 +1,42 @@
-
+body{
+  background-color:#cae9ff;
+}
+h2{
+  color:#463F3A;
+  font-size:400%;
+  letter-spacing:5px;
+  text-decoration-line: overline underline;
+  text-decoration-color: #F4F3EE;
+  text-shadow: 2px 2px 5px #F4F3EE;
+}
+p{
+  color:#463F3A;
+  font-size:200%;
+  letter-spacing:4px;
+  
+}
+img{
+  border: double #ffffff 10px
+}
+iframe{
+  border: dashed #ffffff 10px
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  font-family: "Papyrus", Fantasy;
+  border-style: dashed;
+  color: #463F3A;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: #DBEFFF;
+}
